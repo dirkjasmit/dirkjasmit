@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @dirkjasmit
-- 👀 I’m interested in Science: Genetics and electrophysiology
-- 💞️ I’m looking to collaborate on Genetic analysis of EEG signals
-- 📫 Should be easy to find me via the articles I produced (d.j.smit at 
+- I’m interested in Science
+-   * Genetics
+    * Electrophysiology
+    * Psychiatric genetics and imaging 
+- Leading the ENIGMA-EEG gentics of electrophysiology
+- 📫 Should be easy to find me via the articles I produced
+    * Search for d.j.smit at amsterdamumc.nl or "d.j. smit"
+    * or google scholar (https://scholar.google.nl/citations?user=lLswMFwAAAAJ)
 
 <!---
 dirkjasmit/dirkjasmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
